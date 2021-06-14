@@ -1,2 +1,2 @@
 # Clustering
-different methods of clustering of data
+different methods of clustering on data
